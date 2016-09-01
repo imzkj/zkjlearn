@@ -8,6 +8,7 @@
 4.hgf
 6.wozaizhe;ila
 3.gsd
+3.4142
 
 refresh dw.bdl_com_recommend;
 refresh dw.bdl_com_headlines;
