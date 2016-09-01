@@ -17,7 +17,6 @@
 
 
 refresh dw.bdl_com_recommend;
-hai
 refresh dw.bdl_com_headlines;
 refresh dw.bdl_ssj_feidee_user;
 INSERT INTO tag.ssj_device_user_tagging (udidmd5,sq_latestvisit_90d)
